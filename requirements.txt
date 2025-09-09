@@ -1,0 +1,7 @@
+beautifulsoup4
+lxml
+sentence-transformers
+faiss-cpu
+chromadb
+numpy
+requests

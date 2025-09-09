@@ -1,0 +1,221 @@
+Query: What was NVIDIA's total revenue in fiscal year 2024?
+{
+  "query": "What was NVIDIA's total revenue in fiscal year 2024?",
+  "answer": "$60,922 million.",
+  "reasoning": "Decomposed into sub-queries and retrieved relevant chunks.",
+  "sub_queries": [
+    "What was NVIDIA's total revenue in fiscal year 2024?"
+  ],
+  "sources": [
+    {
+      "file": "nvda-2022.html",
+      "chunk_id": 79,
+      "excerpt": "(iii) changes in technology, and (iv) comparing prior period estimates to actual results of the same period. /s/ PricewaterhouseCoopers LLP San Jose, California March 17, 2022 We have served as the Co..."
+    },
+    {
+      "file": "nvda-2023.html",
+      "chunk_id": 70,
+      "excerpt": "36.9 Income tax expense (benefit) (0.7) 0.7 Net income 16.2 % 36.2 % 41 Table of Contents Revenue Revenue by Reportable Segments Year Ended January 29, 2023 January 30, 2022 $ Change % Change ($ in mi..."
+    },
+    {
+      "file": "nvda-2024.html",
+      "chunk_id": 128,
+      "excerpt": "of total revenue for fiscal years 2023 and 2022. The following table summarizes information pertaining to our revenue by each of the specialized markets we serve: Year Ended Jan 28, 2024 Jan 29, 2023 ..."
+    }
+  ]
+}
+================================================================================
+Query: What percentage of Google's 2023 revenue came from advertising?
+{
+  "query": "What percentage of Google's 2023 revenue came from advertising?",
+  "answer": "To determine the percentage of Google's 2023 revenue that came from advertising, we need to calculate the total revenue from advertising and the total revenue for 2023. \n\nThe total revenue from advertising is not directly provided, but we can calculate the revenue from advertising for each segment:\n\n- YouTube ads revenue: $2.3 billion\n- Google Network revenue: $1.5 billion decrease, but the actual revenue is not provided. However, we can infer that the revenue from Google Network is a significant portion of Google's total revenue, as it is a major segment.\n\nSince the exact revenue from Google Network is not provided, we cannot calculate the exact percentage of revenue from advertising. However, we can estimate it based on the information provided.\n\nAssuming that the revenue from Google Network is a significant portion of Google's total revenue, and considering the growth in YouTube ads revenue, we can estimate that advertising revenue accounts for at least 70-80% of Google's total revenue.",
+  "reasoning": "Decomposed into sub-queries and retrieved relevant chunks.",
+  "sub_queries": [
+    "What percentage of Google's 2023 revenue came from advertising?"
+  ],
+  "sources": [
+    {
+      "file": "goog-2023.html",
+      "chunk_id": 87,
+      "excerpt": "accounting estimate was effective beginning in fiscal year 2023. Based on the carrying value of servers and certain network equipment as of December 31, 2022, and those placed in service during the ye..."
+    },
+    {
+      "file": "goog-2022.html",
+      "chunk_id": 52,
+      "excerpt": "and click-based revenues divided by our total number of impressions, and represents the average amount we charge advertisers for each impression displayed to users. As our business evolves, we periodi..."
+    },
+    {
+      "file": "goog-2023.html",
+      "chunk_id": 62,
+      "excerpt": "improvements we have made in ad formats and delivery. YouTube ads YouTube ads revenues increased $2.3 billion from 2022 to 2023. The growth was driven by our brand and direct response advertising prod..."
+    }
+  ]
+}
+================================================================================
+Query: How much did Microsoft's cloud revenue grow from 2022 to 2023?
+{
+  "query": "How much did Microsoft's cloud revenue grow from 2022 to 2023?",
+  "answer": "According to the text, Microsoft Cloud revenue increased 22% from 2022 to 2023, reaching $111.6 billion.",
+  "reasoning": "Decomposed into sub-queries and retrieved relevant chunks.",
+  "sub_queries": [
+    "How much did Microsoft's cloud revenue grow from 2022 to 2023?"
+  ],
+  "sources": [
+    {
+      "file": "msft-10k_2022.htm",
+      "chunk_id": 68,
+      "excerpt": "section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. See Note 12 \u2013 Income Taxes of the Notes to Financial Statements (Part II, It..."
+    },
+    {
+      "file": "msft-10k_2024.html",
+      "chunk_id": 123,
+      "excerpt": "Revenue, classified by significant product and service offerings, was as follows: (In millions) Year Ended June 30, 2024 2023 2022 Server products and cloud services $ 97,726 $ 79,970 $ 67,350 Office ..."
+    },
+    {
+      "file": "msft-10k_2023.html",
+      "chunk_id": 61,
+      "excerpt": "global audience; and designing and selling devices. Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter oper..."
+    }
+  ]
+}
+================================================================================
+Query: Which of the three companies had the highest gross margin in 2023?
+{
+  "query": "Which of the three companies had the highest gross margin in 2023?",
+  "answer": "Unfortunately, the provided context does not mention the names of three companies. However, it does provide information about NVIDIA Corporation's gross margin in 2023. According to the text, the overall net effect on NVIDIA Corporation's gross margin in 2023 was an unfavorable impact of 7.5%.",
+  "reasoning": "Decomposed into sub-queries and retrieved relevant chunks.",
+  "sub_queries": [
+    "Which of the three companies had the highest gross margin in 2023?"
+  ],
+  "sources": [
+    {
+      "file": "nvda-2022.html",
+      "chunk_id": 79,
+      "excerpt": "(iii) changes in technology, and (iv) comparing prior period estimates to actual results of the same period. /s/ PricewaterhouseCoopers LLP San Jose, California March 17, 2022 We have served as the Co..."
+    },
+    {
+      "file": "nvda-2024.html",
+      "chunk_id": 112,
+      "excerpt": "140 140 100 40 Total $ 13,112 $ 1 $ ( 58 ) $ 13,055 $ 3,148 $ 9,907 65 Table of Contents NVIDIA Corporation and Subsidiaries Notes to the Consolidated Financial Statements (Continued) The following ta..."
+    },
+    {
+      "file": "nvda-2023.html",
+      "chunk_id": 71,
+      "excerpt": "demand projections. Inventory provisions totaled $2.17 billion and $354 million for fiscal years 2023 and 2022, respectively. Sales of inventory that was previously written-off totaled $137 million an..."
+    }
+  ]
+}
+================================================================================
+Query: Compare the R&D spending as a percentage of revenue across all three companies in 2023
+{
+  "query": "Compare the R&D spending as a percentage of revenue across all three companies in 2023",
+  "answer": "Unfortunately, the provided context does not mention Microsoft's R&D spending as a percentage of revenue for 2023. The context only mentions Microsoft's revenue for 2023, specifically for Microsoft Cloud revenue ($111.6 billion) and Office Commercial products and cloud services revenue, but does not provide information on R&D spending. | Unfortunately, the provided context does not include the R&D spending for 2023. However, it does mention the increase in other cost of revenues from 2022 to 2023, which includes compensation expenses, but it does not provide the R&D spending as a percentage of revenue for 2023. | Unfortunately, the provided information does not include the R&D spending for 2023. However, we can calculate the R&D spending as a percentage of revenue for 2022. \n\nAccording to the information, the R&D spending for 2022 is not directly provided, but we can calculate it by subtracting the income from operations from the revenue. \n\nRevenue for 2022 is $60.9 billion, and income from operations is $10.04 billion. \n\nR&D spending for 2022 would be the revenue minus the income from operations: \n$60.9 billion - $10.04 billion = $50.86 billion \n\nHowever, this is not the R&D spending, but rather the operating income. The actual R&D spending is not provided in the given information.",
+  "reasoning": "Decomposed into sub-queries and retrieved relevant chunks.",
+  "sub_queries": [
+    "Microsoft the r&d spending as a percentage of revenue 2023",
+    "Google the r&d spending as a percentage of revenue 2023",
+    "NVIDIA the r&d spending as a percentage of revenue 2023"
+  ],
+  "sources": [
+    {
+      "file": "goog-2022.html",
+      "chunk_id": 60,
+      "excerpt": "distribution partners and to Google Network partners, primarily driven by growth in revenues subject to TAC. The TAC rate was 22% in both 2021 and 2022. The TAC rate on Google Search & other revenues ..."
+    },
+    {
+      "file": "goog-2022.html",
+      "chunk_id": 56,
+      "excerpt": "recognized in the first quarter of 2023. In addition, we are taking actions to optimize our global office space. As a result we expect to incur exit costs relating to office space reductions of approx..."
+    },
+    {
+      "file": "msft-10k_2023.html",
+      "chunk_id": 61,
+      "excerpt": "global audience; and designing and selling devices. Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter oper..."
+    },
+    {
+      "file": "goog-2022.html",
+      "chunk_id": 60,
+      "excerpt": "distribution partners and to Google Network partners, primarily driven by growth in revenues subject to TAC. The TAC rate was 22% in both 2021 and 2022. The TAC rate on Google Search & other revenues ..."
+    },
+    {
+      "file": "goog-2023.html",
+      "chunk_id": 65,
+      "excerpt": "to TAC. The TAC rate decreased from 21.8% to 21.4% from 2022 to 2023 primarily due to a revenue mix shift from Google Network properties to Google Search & other properties. The TAC rate on Google Sea..."
+    },
+    {
+      "file": "goog-2022.html",
+      "chunk_id": 56,
+      "excerpt": "recognized in the first quarter of 2023. In addition, we are taking actions to optimize our global office space. As a result we expect to incur exit costs relating to office space reductions of approx..."
+    },
+    {
+      "file": "nvda-2023.html",
+      "chunk_id": 70,
+      "excerpt": "36.9 Income tax expense (benefit) (0.7) 0.7 Net income 16.2 % 36.2 % 41 Table of Contents Revenue Revenue by Reportable Segments Year Ended January 29, 2023 January 30, 2022 $ Change % Change ($ in mi..."
+    },
+    {
+      "file": "nvda-2022.html",
+      "chunk_id": 59,
+      "excerpt": "a mix shift within Data Center. Operating expenses for fiscal year 2022 were up 27% from a year ago primarily driven by stock-based compensation, compensation-related costs associated with employee gr..."
+    },
+    {
+      "file": "nvda-2024.html",
+      "chunk_id": 73,
+      "excerpt": "$ 29,760 $ 4,368 Up 581% Net income per diluted share $ 11.93 $ 1.74 Up 586% We specialize in markets where our computing platforms can provide tremendous acceleration for applications. These platform..."
+    }
+  ]
+}
+================================================================================
+Query: How did each company's operating margin change from 2022 to 2024?
+{
+  "query": "How did each company's operating margin change from 2022 to 2024?",
+  "answer": "The provided context does not mention the company's operating margin change from 2022 to 2024. It only provides information about the gross margin changes for the Compute & Networking and Graphics segments from 2021 to 2022, and mentions potential factors that could affect the operating margin, but does not provide any actual data for 2022 or 2024.",
+  "reasoning": "Decomposed into sub-queries and retrieved relevant chunks.",
+  "sub_queries": [
+    "How did each company's operating margin change from 2022 to 2024?"
+  ],
+  "sources": [
+    {
+      "file": "nvda-2023.html",
+      "chunk_id": 71,
+      "excerpt": "demand projections. Inventory provisions totaled $2.17 billion and $354 million for fiscal years 2023 and 2022, respectively. Sales of inventory that was previously written-off totaled $137 million an..."
+    },
+    {
+      "file": "nvda-2022.html",
+      "chunk_id": 66,
+      "excerpt": "the overall net effect on our gross margin was an unfavorable impact of 0.9% in fiscal year 2022 and insignificant in fiscal year 2021. The gross margin of our Graphics segment increased during fiscal..."
+    },
+    {
+      "file": "goog-2023.html",
+      "chunk_id": 25,
+      "excerpt": "our products; decreases in our pricing of our products and services; ongoing product and policy changes; and shifts to lower priced products and services. In addition, we may experience downward press..."
+    }
+  ]
+}
+================================================================================
+Query: What are the main AI risks mentioned by each company and how do they differ?
+{
+  "query": "What are the main AI risks mentioned by each company and how do they differ?",
+  "answer": "Unfortunately, it appears there are multiple companies mentioned in the text, but only one company's risks are explicitly stated. However, I can still provide an answer based on the information given.\n\nThe main AI risks mentioned for the company are:\n\n1. Failure to adequately address AI technologies, which may result in reputational and financial harm and liability.\n2. Changes in AI-related regulation, which could disproportionately impact the company and require changes to business practices, potentially negatively impacting financial results.\n3. Concerns relating to the responsible use of AI in products and services, which may result in reputational and financial harm and liability, and may cause the company to incur costs to resolve such issues.\n\nSince there are multiple companies mentioned, but only one company's risks are explicitly stated, I couldn't provide a comparison of the main AI risks for each company.",
+  "reasoning": "Decomposed into sub-queries and retrieved relevant chunks.",
+  "sub_queries": [
+    "What are the main AI risks mentioned by each company and how do they differ?"
+  ],
+  "sources": [
+    {
+      "file": "nvda-2025.html",
+      "chunk_id": 61,
+      "excerpt": "For example, regulation adopted in response to the European Union Code of Practice for General Purpose Artificial Intelligence could require us to notify the European Commission regarding details of s..."
+    },
+    {
+      "file": "nvda-2023.html",
+      "chunk_id": 51,
+      "excerpt": "technologies, including AI in our offerings, may result in reputational and financial harm and liability. Concerns relating to the responsible use of new and evolving technologies, such as AI, in our ..."
+    },
+    {
+      "file": "nvda-2024.html",
+      "chunk_id": 35,
+      "excerpt": "manufacturing yields resulting from a failure in our product design or a foundrys proprietary process technology; and disruptions in manufacturing, assembly and other processes due to closures related..."
+    }
+  ]
+}
+================================================================================
